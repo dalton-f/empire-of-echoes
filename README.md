@@ -35,11 +35,11 @@ Please feel free to fork the repository, make changes, and submit pull requests.
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-[contributors-shield]: https://img.shields.io/github/contributors/dalton-f/helpers.js.svg?style=for-the-badge
-[contributors-url]: https://github.com/dalton-f/helpers.js/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dalton-f/helpers.js.svg?style=for-the-badge
-[forks-url]: https://github.com/dalton-f/helpers.js/network/members
-[stars-shield]: https://img.shields.io/github/stars/dalton-f/helpers.js.svg?style=for-the-badge
-[stars-url]: https://github.com/dalton-f/helpers.js/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dalton-f/helpers.js.svg?style=for-the-badge
-[issues-url]: https://github.com/dalton-f/helpers.js/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dalton-f/empire-of-echoes.svg?style=for-the-badge
+[contributors-url]: https://github.com/dalton-f/empire-of-echoes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dalton-f/empire-of-echoes.svg?style=for-the-badge
+[forks-url]: https://github.com/dalton-f/empire-of-echoes/network/members
+[stars-shield]: https://img.shields.io/github/stars/dalton-f/empire-of-echoes.svg?style=for-the-badge
+[stars-url]: https://github.com/dalton-f/empire-of-echoes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dalton-f/empire-of-echoes.svg?style=for-the-badge
+[issues-url]: https://github.com/dalton-f/empire-of-echoes/issues
