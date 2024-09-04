@@ -1,0 +1,22 @@
+# Begin linting
+echo ""
+
+echo "🔍 Checking JavaScript..."
+
+echo ""
+
+# Run ESLint on the src/js directory
+npx eslint src/js
+
+# Check if the linting passed or failed
+
+echo ""
+
+if [ $? -ne 0 ]; then
+    echo "❌ JavaScrip errors detected. Please fix the issues before committing."
+    exit 1
+else
+    echo "✅ JavaScript passed. Proceeding with commit."
+fi
+
+echo ""
