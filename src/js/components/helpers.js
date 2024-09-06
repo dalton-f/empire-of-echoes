@@ -201,10 +201,7 @@ export const prependChild = (parent, child) =>
  * @returns {number} The total sum of the array values.
  */
 export const getTotal = (array) =>
-  (sum = array.reduce(
-    (accumulator, currentValue) => accumulator + currentValue,
-    0
-  ));
+  array.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 
 /**
  * Get the maximum value in an array.
