@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Empire of Echoes is a clicker game where players build and manage an ancient empire.",
   "main": "index.js",
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
+  },
   "scripts": {
     "lint:js": "npx eslint src/js",
     "dev": "npx mix",
@@ -23,6 +28,8 @@
     "husky": "^9.1.5",
     "laravel-mix": "^6.0.49",
     "postcss": "^8.4.45",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
     "tailwindcss": "^3.4.10"
   }
 }
